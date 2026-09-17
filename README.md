@@ -1,4 +1,5 @@
 # OpenProtozoa
+## NOTE: PROTOZOA HAS BEEN PATCHED.
 Open source Protozoa exploit for Securly. <br>
 Full credit to Bypassi and akabutnice for this exploit. Credit to me for writing the guide.
 
